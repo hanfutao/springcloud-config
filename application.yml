@@ -7,12 +7,12 @@
 
 spring:
   profiles: dev  #开发环境
-  application:
+  application: 
     name: springcloud-config-th-dev
 
 ---
 
 spring:
   profiles: test  # 测试环境
-  application:
-    name:springcloud-config-th-test
+  application: 
+    name: springcloud-config-th-test
